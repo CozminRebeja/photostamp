@@ -97,7 +97,7 @@ export default function StampCameraScreen() {
 
   function dismissPreview() {
     setCaptured(null);
-    router.navigate('/gallery');
+
   }
 
   return (
